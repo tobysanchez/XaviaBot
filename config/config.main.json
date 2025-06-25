@@ -22,7 +22,7 @@
         "100083663902597"
     ],
     "NAME": "دقلو",
-    "PREFIX": "/",
+    "PREFIX": ".",
     "timezone": "Asia/Ho_Chi_Minh",
     "REFRESH": "43200000",
     "MAX_BALANCE_LIMIT": "-1"
